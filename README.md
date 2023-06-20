@@ -1,4 +1,4 @@
-/### Hi there 👋
+### Hi there 👋
 
 :alien: My name is Nathalia and I'm from São Paulo, Brazil 
 
