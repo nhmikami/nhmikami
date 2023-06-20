@@ -3,6 +3,7 @@
 My name is Nathalia and I'm from São Paulo, Brazil.
 
 I'm graduated in Chemical Engineering, but I currently work in the Financial market as an Equity Analyst doing research foi an investment fund
+
 I'm just starting to study some programming to make a career transition into the tech world :)
 
 <!--
