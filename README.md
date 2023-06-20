@@ -1,10 +1,12 @@
-### Hi there 👋
+/### Hi there 👋
 
-My name is Nathalia and I'm from São Paulo, Brazil.
+:alien: My name is Nathalia and I'm from São Paulo, Brazil 
 
-I'm graduated in Chemical Engineering, but I currently work in the Financial market as an Equity Analyst doing research foi an investment fund
+I have an undergraduate degree in Chemical Engineering, but I currently work in the Financial market as an Equity Analyst doing research foi an investment fund
 
 I'm just starting to study some programming to make a career transition into the tech world :)
+
+I'm excited with the journey and can't wait for what's coming next for me :butterfly:
 
 <!--
 **nhmikami/nhmikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
