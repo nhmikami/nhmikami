@@ -2,7 +2,7 @@
 
 :alien: My name is Nathalia and I'm from São Paulo, Brazil 
 
-I have an undergraduate degree in Chemical Engineering, but I currently work in the Financial market as an Equity Analyst doing research foi an investment fund
+I have an undergraduate degree in Chemical Engineering, but over the last 7 years I have worked doing equity research on public companies, covering Retail and Malls sectors
 
 I'm just starting to study some programming to make a career transition into the tech world :)
 
