@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nhmikami/)
 
-.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhmikami&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhmikami&repo=TikTok-project)](https://github.com/anuraghazra/github-readme-stats)
